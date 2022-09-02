@@ -1,5 +1,2 @@
-#!/bin/bash
-cd ..
-#!/bin/bash > 10-back
-echo "cd -
-cd -
+#!/bin/bash 
+cd ..  10-back
